@@ -39,6 +39,7 @@ nbclient==0.6.7
 nbconvert==7.0.0
 nbformat==5.4.0
 nest-asyncio==1.5.5
+networkx==2.8.6
 notebook==6.4.12
 notebook-shim==0.1.0
 numpy==1.23.2
@@ -48,10 +49,12 @@ pandocfilters==1.5.0
 parso==0.8.3
 pexpect==4.8.0
 pickleshare==0.7.5
+pip-licenses==3.5.4
 polars==0.14.5
 prometheus-client==0.14.1
 prompt-toolkit==3.0.30
 psutil==5.9.1
+PTable==0.9.2
 ptyprocess==0.7.0
 pure-eval==0.2.2
 pycparser==2.21
@@ -62,6 +65,7 @@ python-dateutil==2.8.2
 pytz==2022.2.1
 pyzmq==23.2.1
 requests==2.28.1
+scipy==1.9.1
 Send2Trash==1.8.0
 six==1.16.0
 sniffio==1.2.0
